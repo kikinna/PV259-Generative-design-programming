@@ -1,4 +1,4 @@
-# PV259-Generative-design-programming
+# PV259 Generative design programming (2020)
 Study materials for course of creative coding at Masaryk university
 
 ## Available programs
